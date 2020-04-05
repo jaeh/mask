@@ -10,5 +10,4 @@ This is a sample of masks.
 <Img src="/masks_E.jpg"></Img>
 <Img src="/masks_BW.jpg"></Img>
 <Img src="/masks_BU.jpg"></Img>
-
 </div>
