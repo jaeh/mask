@@ -4,7 +4,7 @@ export default {
   CNAME: 'mask.jaeh.at',
   PUBLIC: 'docs',
   URL: 'mask.jaeh.at',
-  THEME: 'minimal',
+  THEME: 'mask',
   HOIST: ['LightSwitch', 'Gdpr'],
 
   IGNORED_STATIC: ['xcf'],
